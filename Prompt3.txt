@@ -1,9 +1,75 @@
-Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas**  `[Objetivo_principal_del_proceso]` a través de un proceso bien estructurado.
+Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** Pantalla de inicio de sesion, pantalla de inicio con recomendaciones de proveedores, pantalla de mis eventos, pantalla de perfil `Simplificar por completo la organización de eventos, permitiendo que cualquier persona encuentre, compare y contrate a los proveedores que necesita de forma rápida, fácil y segura, ahorrándole tiempo y esfuerzo.` a través de un proceso bien estructurado.
 
-Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[Descripción_del_proceso]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `Facilitar la búsqueda y planificación: Ofrecer una búsqueda inteligente con filtros por categoría y ubicación. Adicionalmente, permitir que los usuarios introduzcan un presupuesto y tipo de evento 
+•	Garantizar confianza: Construir un sistema de perfiles y valoraciones robusto, donde los usuarios puedan tomar decisiones informadas basadas en experiencias de otros.
+•	Centralizar la contratación: Permitir que los usuarios gestionen múltiples reservas y realicen un único pago seguro directamente en la plataforma.
+•	Construir una comunidad inicial: Alcanzar una masa crítica de proveedores confiables y usuarios activos para validar el modelo de negocio en nuestra fase de lanzamiento.
+`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
 
 Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
 
-`[Proceso_seleccionadao_para_modelar]`
+Pantallas requeridas:
 
-Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[Tipo_de_usuario]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[Objetivo_del_proceso_principal]`.
+Pantalla de Bienvenida / Onboarding
+
+Mensaje corto y atractivo: “La forma más fácil y segura de organizar tu evento”.
+
+Ilustración de fiesta o celebración.
+
+Botón de “Comenzar”.
+
+Pantalla de Búsqueda de Proveedores
+
+Barra de búsqueda con filtros (categoría, ubicación, presupuesto, tipo de evento).
+
+Tarjetas de proveedores con foto, nombre, categoría, calificación en estrellas y precio aproximado.
+
+Pantalla de Detalle de Proveedor
+
+Imagen grande del servicio (ej. catering, decoración, música).
+
+Nombre, calificación, reseñas de clientes.
+
+Lista de servicios y precios.
+
+Botón destacado de “Reservar”.
+
+Pantalla de Comparación de Proveedores
+
+Tabla o tarjetas comparativas que muestren precios, calificaciones y disponibilidad.
+
+Opción de seleccionar y guardar favoritos.
+
+Pantalla de Pagos Seguros
+
+Resumen de los servicios seleccionados.
+
+Total a pagar.
+
+Métodos de pago seguros.
+
+Botón “Confirmar y Pagar”.
+
+Pantalla de Perfil de Usuario / Comunidad
+
+Información del usuario.
+
+Historial de reservas.
+
+Lista de proveedores favoritos.
+
+Espacio para dejar reseñas.
+
+Estilo visual:
+
+Minimalista, moderno y profesional.
+
+Colores principales: tonos festivos pero elegantes (ej. morado, azul, dorado, blanco).
+
+Tipografía limpia y fácil de leer.
+
+Íconos intuitivos relacionados con fiestas y eventos.
+
+Objetivo de diseño:
+
+Transmitir facilidad, rapidez y seguridad en la organización de eventos, eliminando el estrés de la búsqueda de proveedores.
