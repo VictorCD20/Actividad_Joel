@@ -1,10 +1,39 @@
-Prompt para Stitch
-Te comparto el sistema de diseño para generar una aplicación móvil, de momento analiza la información y guardala en tu memoria para la construcción de las interfaces que te voy a solicitar: 
+Prompt para Stitch – FestEasy
 
-La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de **alta fidelidad** [Query, 382] y el **Javerage Electoral Design System (JEDS)** [Query, 385, 491].
+Te comparto el sistema de diseño para generar una aplicación móvil de FestEasy. De momento, analiza la información y guárdala en tu memoria para la construcción de las interfaces que te voy a solicitar.
 
-Hemos confirmado tres puntos clave que ahora se integran en el *prompt* final:
-Fidelidad y Tema: Se prioriza un prototipo de Alta Fidelidad bajo el Tema Oscuro [Query].
-Logo: El Logo de Javerage Electoral debe ser prominente en el encabezado para fidelizar la marca [Query].
-Componente "Recordarme": Se utilizará un Toggle Switch (interruptor deslizante) [Query] posicionado debajo del campo de contraseña, alineado con las mejores prácticas de UI móvil.
-A continuación, se presenta la descripción de la UI en un solo párrafo y el prompt estructurado con el detalle final de los componentes.
+La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de alta fidelidad en un sistema centrado en experiencia de usuario y accesibilidad.
+
+Hemos confirmado tres puntos clave que ahora se integran en el prompt final:
+
+Fidelidad y Tema: Se prioriza un prototipo de Alta Fidelidad, bajo un Tema Oscuro festivo y elegante que evoque celebración y confianza.
+
+Logo: El logo de FestEasy debe ser prominente en el encabezado de la aplicación, para fortalecer la identidad de marca desde la primera interacción.
+
+Componente clave (Reserva rápida): Se utilizará un botón de acción destacado (CTA) con la etiqueta “Reservar Ahora”, posicionado estratégicamente en las pantallas de proveedores, alineado con las mejores prácticas de UI móvil.
+
+Descripción de la UI (en un solo párrafo)
+
+La interfaz de FestEasy está diseñada para que el usuario pueda buscar proveedores, comparar precios y reservar servicios de forma rápida y confiable, todo desde un flujo intuitivo. La pantalla presenta un encabezado con el logo de FestEasy, seguido de un campo de búsqueda con filtros inteligentes (categoría, ubicación, presupuesto). Debajo se muestran tarjetas de proveedores con imagen, nombre, calificación, precio y un botón de acción para reservar. Al final, una barra de navegación inferior permite acceder rápidamente a las secciones principales: Inicio, Búsqueda, Reservas, Comunidad y Perfil.
+
+Prompt estructurado con detalle de componentes
+
+Encabezado: Logo de FestEasy al centro.
+
+Barra de búsqueda: Campo de entrada con icono de búsqueda + filtros desplegables (categoría, ubicación, presupuesto).
+
+Listado de proveedores: Tarjetas con
+
+Imagen del proveedor
+
+Nombre del servicio
+
+Calificación (estrellas + número)
+
+Precio desde/hasta
+
+Botón “Reservar Ahora”.
+
+CTA destacado: Botón fijo en pantalla de detalle para confirmar reserva.
+
+Barra de navegación inferior: 5 íconos → Inicio, Buscar, Reservas, Comunidad, Perfil.
