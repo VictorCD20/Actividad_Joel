@@ -1,4 +1,4 @@
-Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** que faciliten `[Objetivo_principal_del_proceso]` a través de un proceso bien estructurado.
+Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas**  `[Objetivo_principal_del_proceso]` a través de un proceso bien estructurado.
 
 Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[Descripción_del_proceso]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
 
